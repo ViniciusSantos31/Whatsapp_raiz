@@ -1,0 +1,18 @@
+cronograma do projeto de LP1
+
+Add contato
+Remover Contato
+Listar contatos
+Abrir conversa
+fechar conversa
+login(numero de telefone/ senha)
+enviar mensagem
+receber mensagem
+comandos de atalho(se quiser)
+criar grupo
+add pessoas ao grupo
+remover pessoas do grupo
+sistema de adm
+remover grupo
+sair do grupo
+
